@@ -1,0 +1,5 @@
+Starting script...
+Imported db modules.
+Checking for user: evaniscool309@gmail.com
+User FOUND: ID=11 Email=evaniscool309@gmail.com
+Closet Count: 0

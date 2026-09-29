@@ -1,0 +1,109 @@
+{
+  "Clothing": {
+    "Tops": [
+      "t-shirt", "tee", "tank top", "camisole", "crop top", "long sleeve", 
+      "polo", "henley", "blouse", "v-neck top", "v-neck"
+    ],
+    "Outerwear": [
+      "jacket", "coat", "parka", "blazer", "windbreaker", "puffer jacket", 
+      "trench coat", "overcoat"
+    ],
+    "Pants": [
+      "pant", "pants", "trouser", "cargo pant", "jogger", "track pant", 
+      "sweatpant", "leggings", "slacks", "chino pant"
+    ],
+    "Shorts": [
+      "shorts", "cargo shorts", "bermuda shorts", "bike shorts", "cycling shorts",
+      "denim shorts", "jean shorts", "chino shorts", "running shorts", 
+      "athletic shorts", "board shorts", "swim trunks"
+    ],
+    "Jeans": [
+      "jeans", "denim jeans", "skinny jeans", "straight jeans", "wide leg jeans"
+    ],
+    "Dresses & Skirts": [
+      "dress", "maxi dress", "mini dress", "midi dress", 
+      "skirt", "pleated skirt", "denim skirt"
+    ],
+    "Sweatshirts & Hoodies": [
+      "sweatshirt", "hoodie", "pullover hoodie", "crewneck sweatshirt", 
+      "zip hoodie", "fleece hoodie", "jumper", "sweater", "crewneck", "pullover"
+    ],
+    "Shirts & Blouses": [
+      "shirt", "button-down shirt", "dress shirt", "oxford shirt"
+    ]
+  },
+
+  "Shoes": {
+    "Sneakers": [
+      "sneaker", "running shoe", "trainer", "athletic shoe", 
+      "sport sneaker", "tennis shoe"
+    ],
+    "Boots": [
+      "boot", "ankle boot", "chelsea boot", "combat boot", "hiking boot"
+    ],
+    "Heels & Pumps": [
+      "heel", "high heel", "pump", "stiletto", "block heel"
+    ],
+    "Flats": [
+      "flat", "ballet flat", "mary jane flat"
+    ],
+    "Sandals & Slippers": [
+      "sandal", "slide sandal", "slipper", "house slipper"
+    ],
+    "Flip-flops": ["flip-flop", "thong sandal"],
+    "Loafers": ["loafer", "penny loafer", "driving shoe"],
+    "Mules": ["mule", "open-back shoe"],
+    "Sports Shoes": [
+      "cleat", "football shoe", "soccer shoe", "hiking shoe", "trail shoe"
+    ]
+  },
+
+  "Bags": {
+    "Shoulder Bags": [
+      "shoulder bag", "hobo bag", "leather shoulder bag", "chain strap bag"
+    ],
+    "Crossbody Bags": [
+      "crossbody bag", "messenger bag", "sling bag", "camera bag"
+    ],
+    "Backpacks": [
+      "backpack", "daypack", "mini backpack", "drawstring bag"
+    ],
+    "Totes": [
+      "tote", "tote bag", "canvas tote", "shopping bag", "large tote"
+    ],
+    "Wallets & Cases": [
+      "wallet", "cardholder", "pouch", "coin purse", "phone case"
+    ],
+    "Clutches": [
+      "clutch", "evening bag", "wristlet", "mini purse"
+    ],
+    "Belt Bags": [
+      "belt bag", "fanny pack", "waist bag"
+    ],
+    "Travel Bags": [
+      "duffel bag", "weekender bag", "carry-on", "travel backpack", "luggage"
+    ]
+  },
+
+  "Accessories": {
+    "Jewelry": [
+      "ring", "necklace", "bracelet", "bangle", "earring", "stud", "pendant", 
+      "choker"
+    ],
+    "Belts": ["belt", "leather belt", "chain belt"],
+    "Caps & Hats": [
+      "cap", "hat", "beanie", "bucket hat", "fedora", "visor", "beret"
+    ],
+    "Sunglasses": [
+      "sunglasses", "aviator", "wayfarer", "round frame sunglasses"
+    ],
+    "Glasses": ["glasses", "eyeglass", "optical frame"],
+    "Tech & Life": [
+      "smartwatch", "phone case", "charger", "headphone", "earbud", 
+      "laptop sleeve"
+    ],
+    "Other Accessories": [
+      "scarf", "glove", "keychain", "hair tie", "scrunchie"
+    ]
+  }
+}

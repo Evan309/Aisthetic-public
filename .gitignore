@@ -1,0 +1,54 @@
+# .gitignore
+# Python
+__pycache__/
+.pytest_cache/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+.env/
+
+# Models & Datasets
+*.pt
+*.pth
+*.h5
+*.ckpt
+*.tflite
+*.onnx
+*.zip
+*.tar
+*.tar.gz
+*.7z
+*.npz
+*.npy
+data/
+!editorial/src/data/
+datasets/
+outputs/
+checkpoints/
+runs/
+results/
+cache/backend/tests/reproduce_issue.py
+
+# Scraper Profiles
+backend/scraper/musinsa_scaper/musinsa_playwright_profile/
+backend/tests/backend/
+
+# JavaScript build output and caches
+node_modules/
+.vite/
+dist/
+dist-ssr/
+
+# Logs and local tooling
+logs/
+*.log
+.DS_Store
+.vscode/
+.idea/
+
+# One-off local database diagnostics
+backend/query_payload.py
+query_summer_shorts.py
+backend/test_output.txt

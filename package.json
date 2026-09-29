@@ -1,0 +1,12 @@
+{
+  "name": "aisthetic",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix frontend run dev",
+    "build": "npm --prefix frontend run build",
+    "lint": "npm --prefix frontend run lint",
+    "dev:editorial": "npm --prefix editorial run dev",
+    "build:editorial": "npm --prefix editorial run build",
+    "typecheck:editorial": "npm --prefix editorial run typecheck"
+  }
+}

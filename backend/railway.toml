@@ -1,0 +1,5 @@
+[deploy]
+startCommand = "gunicorn main:app --workers 1 --worker-class uvicorn.workers.UvicornWorker --bind 0.0.0.0:$PORT --timeout 120 --access-logfile - --error-logfile - --max-requests 1000 --max-requests-jitter 50"
+healthcheckPath = "/docs"
+restartPolicyType = "on_failure"
+restartPolicyMaxRetries = 10
