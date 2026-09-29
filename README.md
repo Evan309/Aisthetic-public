@@ -79,23 +79,6 @@ npm ci
 npm run dev
 ```
 
-## Environment variables
-
-Never commit real credentials. Local `.env` files are ignored by Git.
-
-| Variable | App | Purpose |
-| --- | --- | --- |
-| `DATABASE_URL` | API | PostgreSQL connection string |
-| `FRONTEND_URL` | API | Allowed storefront origin |
-| `AUTH0_DOMAIN` | API | Auth0 tenant domain |
-| `AUTH0_AUDIENCE` | API | Auth0 API identifier |
-| `AUTH0_CLIENT_ID` | API | Auth0 management client ID |
-| `AUTH0_CLIENT_SECRET` | API | Auth0 management client secret |
-| `VITE_API_URL` | Storefront | API base URL ending in `/api/v1` |
-| `VITE_AUTH0_DOMAIN` | Storefront | Auth0 tenant domain |
-| `VITE_AUTH0_CLIENT_ID` | Storefront | Public SPA client ID |
-| `VITE_AUTH0_AUDIENCE` | Storefront | Auth0 API identifier |
-
 ## Quality checks
 
 ```bash
