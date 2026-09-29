@@ -2,6 +2,10 @@
 
 AIsthetic is an AI-powered fashion discovery platform. Shoppers can search a product catalog with natural language or an image, explore brands, and organize products into personal or collaborative closets.
 
+## Preview
+
+![AIsthetic multimodal fashion search](docs/screenshots/home-desktop.png)
+
 ## Highlights
 
 - Multimodal product search using text, images, or both
